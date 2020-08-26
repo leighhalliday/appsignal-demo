@@ -16,6 +16,7 @@
     "@appsignal/nodejs": "^0.6.1",
     "@appsignal/react": "^1.0.0",
     "@nexus/schema": "^0.15.0",
+    "@zeit/next-source-maps": "^0.0.3",
     "apollo-server-micro": "^2.16.1",
     "express": "^4.17.1",
     "graphql": "^15.3.0",
